@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3vjyP1TQNS8gxqo3MLfDo/tXzCMTd5sdIk2hIGCh9Bs=",
+  "Source": "Indigo.WebAPI",
+  "BasePath": "_content/Indigo.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

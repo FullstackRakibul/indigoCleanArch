@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Application\\Indigo.Application.csproj": {}
+  },
+  "projects": {
+    "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Application\\Indigo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Application\\Indigo.Application.csproj",
+        "projectName": "Indigo.Application",
+        "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Application\\Indigo.Application.csproj",
+        "packagesPath": "C:\\Users\\tamal\\.nuget\\packages\\",
+        "outputPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj": {
+                "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj"
+              },
+              "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\Indigo.Infrastructure.csproj": {
+                "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\Indigo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj",
+        "projectName": "Indigo.Core",
+        "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj",
+        "packagesPath": "C:\\Users\\tamal\\.nuget\\packages\\",
+        "outputPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\Indigo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\Indigo.Infrastructure.csproj",
+        "projectName": "Indigo.Infrastructure",
+        "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\Indigo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tamal\\.nuget\\packages\\",
+        "outputPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj": {
+                "projectPath": "G:\\Rakibbhai\\DotNet\\alpha\\indigo\\src\\Indigo.Core\\Indigo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

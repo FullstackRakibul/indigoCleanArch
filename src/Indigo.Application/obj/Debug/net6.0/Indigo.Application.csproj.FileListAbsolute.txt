@@ -1,0 +1,17 @@
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Application.deps.json
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Application.dll
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Application.pdb
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Core.dll
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Infrastructure.dll
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Core.pdb
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\bin\Debug\net6.0\Indigo.Infrastructure.pdb
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.csproj.AssemblyReference.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.AssemblyInfoInputs.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.AssemblyInfo.cs
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.csproj.CoreCompileInputs.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.csproj.CopyComplete
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.dll
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\refint\Indigo.Application.dll
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\Indigo.Application.pdb
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.Application\obj\Debug\net6.0\ref\Indigo.Application.dll

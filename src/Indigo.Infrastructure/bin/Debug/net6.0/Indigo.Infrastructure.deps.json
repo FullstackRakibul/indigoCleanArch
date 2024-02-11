@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Indigo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Indigo.Core": "1.0.0"
+        },
+        "runtime": {
+          "Indigo.Infrastructure.dll": {}
+        }
+      },
+      "Indigo.Core/1.0.0": {
+        "runtime": {
+          "Indigo.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indigo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Indigo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

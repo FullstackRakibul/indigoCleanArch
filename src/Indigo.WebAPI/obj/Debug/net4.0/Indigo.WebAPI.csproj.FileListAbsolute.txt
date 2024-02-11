@@ -1,0 +1,6 @@
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.csproj.AssemblyReference.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.csproj.SuggestedBindingRedirects.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.AssemblyInfoInputs.cache
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.AssemblyInfo.cs
+G:\Rakibbhai\DotNet\alpha\indigo\src\Indigo.WebAPI\obj\Debug\net4.0\Indigo.WebAPI.csproj.CoreCompileInputs.cache
